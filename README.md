@@ -1,5 +1,7 @@
 ## RestFB Messenger
 
+[![Join the chat at https://gitter.im/restfbmessenger/Lobby](https://badges.gitter.im/restfbmessenger/Lobby.svg)](https://gitter.im/restfbmessenger/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.marsbits.restfbmessenger/restfbmessenger-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.marsbits.restfbmessenger/restfbmessenger-core)
 [![Javadocs](http://www.javadoc.io/badge/com.github.marsbits.restfbmessenger/restfbmessenger-core.svg?color=brightgreen)](http://www.javadoc.io/doc/com.github.marsbits.restfbmessenger/restfbmessenger-core)
 [![Apache 2.0 License](https://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
